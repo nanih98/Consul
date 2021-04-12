@@ -1,8 +1,8 @@
 {
     "bootstrap": true,
     "server": true,
-    "datacenter": "nyc2",
-    "data_dir": "/var/consul",
+    "datacenter": "daniel",
+    "data_dir": "/var/consul/data",
     "encrypt": "X4SYOinf2pTAcAHRhpj7dA==",
     "log_level": "INFO"
 }
